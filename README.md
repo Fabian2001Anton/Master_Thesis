@@ -19,5 +19,7 @@ Univ.-Prof. Dr. Christina Kuttler
 ## Institute 
 
 Department of Mathematics
+
 TUM School of Computation, Information and Technology
-Technische Universität München# Master_Thesis
+
+Technische Universität München
